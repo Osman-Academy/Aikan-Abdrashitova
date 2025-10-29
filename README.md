@@ -28,4 +28,5 @@
 ```bash
 git checkout aikan-abdrashitova   # Домашнее задание 1
 git checkout hw2-square-dynamic   # Домашнее задание 2
+git checkout hw3-auth-login       # Домашнее задание 3
 
