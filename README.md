@@ -1,23 +1,31 @@
-# CartLogic
+# Aikan-Abdrashitova
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Этот проект содержит домашние задания по курсу.
 
-## Getting Started
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Структура репозитория
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+- Все домашние задания находятся в одной директории проекта.
+- Каждое задание размещено в отдельной **ветке** Git, чтобы код разных заданий не смешивался.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Ветки (branches)
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- **aikan-abdrashitova** — домашнее задание №1  
+  (логика корзины, категории и товары)
+  
+- **hw2-square-dynamic** — домашнее задание №2  
+  (визуальный квадрат с динамическим изменением размера)
 
-git checkout aikan-abdrashitova  # для первого ДЗ
-git checkout hw2-square-dynamic  # для второго ДЗ
+---
+
+## Как переключаться между заданиями
+
+Для просмотра и работы с нужным заданием нужно переключаться на соответствующую ветку:
+
+```bash
+git checkout aikan-abdrashitova   # Домашнее задание 1
+git checkout hw2-square-dynamic   # Домашнее задание 2
 
